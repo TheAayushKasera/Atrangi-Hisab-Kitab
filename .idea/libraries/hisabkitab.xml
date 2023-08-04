@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hisabkitab">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/hisabkitab.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
